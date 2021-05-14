@@ -1,0 +1,13 @@
+Ordem
+
+TANCAData.py: transforma um grupo de txts em um csv
+Pressure_v3.py: cria um csv com os dados do Cepagri
+P.R: cria um csz com os dados de viracopos
+Corrections.py: Mode 1 : junta os dados de pressão e contagens
+daily.py: Mode 1: determina No e Po
+barometrc_v13.py: correções barométricas
+Corrections.py: Mode 2 : faz as correçoes barométricas
+daily.py: Mode 3: Separa os dados por estação do ano para um ano específico
+daily.py: Mode 4: Faz o fit das curvas
+Corrections.py: Mode 3: Faz as correções de acordo com o fit
+
